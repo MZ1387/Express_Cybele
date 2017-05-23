@@ -1,6 +1,9 @@
 # Cybele
 A fully functional online website to showcase and manage a fashion boutique's inventory.
 
+## Bitbucket Repo
+- https://bitbucket.org/MZ1387/cybele
+
 ## Front End: UI/UX
 
 <img width="1680" alt="screen shot 2017-05-22 at 12 15 16 pm" src="https://cloud.githubusercontent.com/assets/22460545/26324989/f30c243e-3ee9-11e7-99ed-46af76095414.png">
